@@ -53,11 +53,11 @@ function Form() {
                 <div>
                     <button
                     type="submit"
-                    ></button>
+                    >Submit</button>
                 </div>
             </form>
             <div>
-                <table>
+                <table className="centered">
                     <tbody>
                         <tr>
                             <th>First Name</th>
